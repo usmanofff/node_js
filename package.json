@@ -1,0 +1,23 @@
+{
+  "name": "node_js_exam_usmanofff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/usmanofff/node_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usmanofff/node_js/issues"
+  },
+  "homepage": "https://github.com/usmanofff/node_js#readme",
+  "description": ""
+}
